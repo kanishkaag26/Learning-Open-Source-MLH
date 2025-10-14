@@ -7,6 +7,8 @@ This repository contains the slides from the sessions, intended to teach the pri
 - [Alberto Camarena](https://github.com/Alberthor47)
 - [Usama Ayoub](https://github.com/sam3690)
 - [Francisco Morales](https://github.com/morales0)
+- [Honorat Kablansi](https://github.com/honoratkablansi)
+
 
 ## Instructions
 
