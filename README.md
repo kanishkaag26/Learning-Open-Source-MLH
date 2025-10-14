@@ -2,7 +2,7 @@
 
 This repository contains the slides from the sessions, intended to teach the principles of Open Source.
 
-## People that had taken the workshop
+## Attendance List
 
 - [Alberto Camarena](https://github.com/Alberthor47)
 - [Usama Ayoub](https://github.com/sam3690)
