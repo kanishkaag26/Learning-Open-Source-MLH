@@ -5,6 +5,7 @@ This repository contains the slides from the sessions, intended to teach the pri
 ## People that had taken the workshop
 
 - [Alberto Camarena](https://github.com/Alberthor47)
+- [morales0](https://github.com/morales0)
 
 ## Instructions
 
